@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="23px" height="23px" viewBox="0 0 23 23">
+<defs>
+<g id="Layer0_0_FILL">
+<path fill="#000000" fill-opacity="0.6470588235294118" stroke="none" d="
+M 11.7 22.4
+Q 16.15 22.4 19.25 19.25 22.4 16.15 22.4 11.7 22.4 7.25 19.25 4.15 16.15 1 11.7 1 7.25 1 4.15 4.15 1 7.25 1 11.7 1 16.15 4.15 19.25 7.25 22.4 11.7 22.4 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 22.4 11.7
+Q 22.4 16.15 19.25 19.25 16.15 22.4 11.7 22.4 7.25 22.4 4.15 19.25 1 16.15 1 11.7 1 7.25 4.15 4.15 7.25 1 11.7 1 16.15 1 19.25 4.15 22.4 7.25 22.4 11.7 Z"/>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Futura ND for Nike 365 Cn XBd
+Vendor ID: NDTC
+© Copyright 1998, 2012, Neufville Digital.  ALL RIGHTS RESERVED. This font is licensed, not sold, and may not be reproduced without the written consent of Neufville Digital. Parts © Visualogik Technology & Design, 1998, 2012. The digitally encoded machine readable outline data for producing the typefaces licensed to you is copyrighted (c), 2012 by and the property of Novatype, a subsidiary of VISINOVA bv.
+Futura is a registered trademark of Bauer Types SA. Unauthorised use prohibited. ALL RIGHTS RESERVED. Neufville Digital is a trademark of Visualogik/Novatype, used with the permission of Neufville SL.
+http://www.neufville.com/license.htm
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=NDTC&Name=Futura%20ND%20for%20Nike%20365%20Cn&PSName=FuturaNDforNike365Cn-XBd&applanguage=en_US-->
+<font-face font-family="Futura_ND_for_Nike_365_Cn_XBd_Regular" units-per-em="2048" ascent="2054" descent="553"/>
+
+<glyph unicode="+" horiz-adv-x="1233" d="
+M 106 667
+L 106 907 491 907 491 1321 739 1321 739 907 1124 907 1124 667 739 667 739 255 491 255 491 667 106 667 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+
+<use xlink:href="#Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 0.2746124267578125, 0, 0, 0.2746124267578125, 6.45,-0.2) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="43.15" height="86.75" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="65.2" baseline-shift="0%" kerning="0" font-family="Futura_ND_for_Nike_365_Cn_XBd_Regular" font-size="65" fill="#FFFFFF" xml:space="preserve">+</tspan></text>
+</g>
+</svg>
